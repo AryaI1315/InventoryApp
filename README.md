@@ -55,11 +55,10 @@ It provides a simple and efficient way to organize products and monitor stock av
 
 📸 Screenshots
 
-![Uploading image.png…]()
-
-
+https://drive.google.com/drive/folders/1YhrnW4ZlnL-6rCYKkzA6W_RSn21iyYR3?usp=sharing
 
 ---
+
 
 👨‍💻 Developed By
 
