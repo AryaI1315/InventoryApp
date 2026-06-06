@@ -1,4 +1,4 @@
-##📦 Inventory Manager App
+# 📦 Inventory Manager App
 
 A smart and user-friendly Android application built to manage product inventory efficiently. This app helps users track stock levels, monitor expiry dates, and organize products through a clean and intuitive dashboard interface.
 
