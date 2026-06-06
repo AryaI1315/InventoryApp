@@ -55,14 +55,9 @@ It provides a simple and efficient way to organize products and monitor stock av
 
 📸 Screenshots
 
-*Add your app screenshots here*
+![Uploading image.png…]()
 
-Example:
 
-* Dashboard Screen
-* Add Product Screen
-* Expiry Tracking Screen
-* Analytics / Charts Screen
 
 ---
 
