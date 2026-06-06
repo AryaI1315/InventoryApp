@@ -1,10 +1,10 @@
-📦 Inventory Manager App
+#📦 Inventory Manager App
 
 A smart and user-friendly Android application built to manage product inventory efficiently. This app helps users track stock levels, monitor expiry dates, and organize products through a clean and intuitive dashboard interface.
 
 ---
 
-✨ Features
+## ✨ Features
 
 * 📊 Dashboard with inventory statistics
 * ⏰ Expiry tracking (Expired / Expiring Soon / Safe)
@@ -18,7 +18,7 @@ A smart and user-friendly Android application built to manage product inventory 
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * Java / Kotlin
 * Android Studio
@@ -29,7 +29,7 @@ A smart and user-friendly Android application built to manage product inventory 
 
 ---
 
-📱 App Purpose
+## 📱 App Purpose
 
 This application is designed for:
 
@@ -43,7 +43,7 @@ It provides a simple and efficient way to organize products and monitor stock av
 
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 * 📷 Barcode scanner integration
 * ☁️ Cloud backup & synchronization
@@ -53,7 +53,7 @@ It provides a simple and efficient way to organize products and monitor stock av
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
 https://drive.google.com/drive/folders/1YhrnW4ZlnL-6rCYKkzA6W_RSn21iyYR3?usp=sharing
 
@@ -63,8 +63,8 @@ https://drive.google.com/drive/folders/1YhrnW4ZlnL-6rCYKkzA6W_RSn21iyYR3?usp=sha
 https://drive.google.com/drive/folders/1J1OAjJZizMw04EWnFUQ6Pz6-cDp-Kf3r?usp=sharing
 
 
-👨‍💻 Developed By
+## 👨‍💻 Developed By
 
-- Arya Ingole
+**Arya Ingole**
 
 Feel free to contribute, suggest improvements, or give feedback!
